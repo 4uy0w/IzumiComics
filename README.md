@@ -1,2 +1,2 @@
 # IzumiComics
-IzumiComics Project, reading and writing comic or developed new comic , test
+IzumiComics Project, reading and writing comic or developed new comic , test jemabatn
